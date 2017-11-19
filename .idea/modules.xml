@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chipwhisperer32-local.iml" filepath="$PROJECT_DIR$/chipwhisperer32-local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hardware/common/hdl/sad_trigger/vivado_hls/sad/sad.iml" filepath="$PROJECT_DIR$/hardware/common/hdl/sad_trigger/vivado_hls/sad/sad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hardware/common/hdl/smartcard/vivado_hls_source/test_smartcard/test_smartcard.iml" filepath="$PROJECT_DIR$/hardware/common/hdl/smartcard/vivado_hls_source/test_smartcard/test_smartcard.iml" />
+    </modules>
+  </component>
+</project>
